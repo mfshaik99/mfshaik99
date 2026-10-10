@@ -20,6 +20,14 @@
   <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" width="80%" alt="GitHub Contribution Streak" />
 </p>
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
+</picture>
+
 # 👋 Hi, I'm Muhammad Farhan Shaik
 
 🎓 AI & Machine Learning Undergraduate at CVR College of Engineering (CGPA: 8.74)
