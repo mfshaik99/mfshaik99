@@ -34,6 +34,39 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api?username=mfshaik99&show_icons=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A101F&border_color=30363D&include_all_commits=true" alt="Farhan's GitHub statistics">
+  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api/top-langs/?username=mfshaik99&layout=compact&title_color=22D3EE&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" alt="Most used programming languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" alt="GitHub contribution streak">
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg">
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+## 🎯 My Career Goal
+
+To build impactful, scalable, and intelligent software by combining Generative AI, machine learning, and software engineering — creating technology that solves real-world problems.
+
+---
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at **CVR College of Engineering**
@@ -127,38 +160,7 @@ A collection of programming experiments and interactive applications built to st
 - 🏆 Hackathon participation and prototype development
 - 🚀 Development of AI-focused projects and practical applications
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api?username=mfshaik99&show_icons=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A101F&border_color=30363D&include_all_commits=true" alt="Farhan's GitHub statistics">
-  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api/top-langs/?username=mfshaik99&layout=compact&title_color=22D3EE&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" alt="Most used programming languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" alt="GitHub contribution streak">
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg">
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
----
-
-## 🎯 My Career Goal
-
-To build impactful, scalable, and intelligent software by combining Generative AI, machine learning, and software engineering — creating technology that solves real-world problems.
-
----
 
 ## 🤝 Connect With Me
 
