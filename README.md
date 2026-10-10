@@ -1,229 +1,185 @@
-
+ <!-- BANNER — KEEP THIS FIRST -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/light.svg">
-  <img alt="Muhammad Farhan Shaik — GitHub profile banner"
-    src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/light.svg"
-    width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/light.svg">
+  <img alt="Muhammad Farhan Shaik — GitHub Profile Banner" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/main/light.svg" width="100%">
 </picture>
 
-## 📊 GitHub Analytics
+<h1 align="center">Hi, I'm Muhammad Farhan Shaik 👋</h1>
+
+<h3 align="center">AI & Machine Learning Undergraduate | Generative AI Developer | Python Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-eta-12.vercel.app/api?username=mfshaik99&show_icons=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-one-eta-12.vercel.app/api/top-langs/?username=mfshaik99&layout=compact&title_color=22D3EE&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" height="180" alt="Top Languages" />
+  Building intelligent applications, exploring emerging technologies, and turning ideas into practical solutions.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" width="80%" alt="GitHub Contribution Streak" />
-</p>
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg">
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
-</picture>
-
-## 🌐 Connect With Me
-
-<p align="center">
+  <a href="https://farhanshaik.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/mfshaik99/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/u/mfshaik99/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/mfshaik99">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="mailto:mfshaik99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://farhanshaik.lovable.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-# 👋 Hi, I'm Muhammad Farhan Shaik
-
-🎓 AI & Machine Learning Undergraduate at CVR College of Engineering (CGPA: 8.74)
-
-🤖 Oracle Certified Generative AI Professional
-
-☁️ Google Cloud Enthusiast
-
-💻 AI Application Developer | Cloud & Full-Stack Developer
-
-🌐 Portfolio: https://farhanshaik.lovable.app
-
-📧 Email: [mfshaik99@gmail.com](mailto:mfshaik99@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=mfshaik99\&color=blueviolet)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://farhanshaik.lovable.app)
-[![Oracle GenAI](https://img.shields.io/badge/Oracle-GenAI%20Professional-red?style=for-the-badge\&logo=oracle)](https://education.oracle.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GenAI-blue?style=for-the-badge\&logo=googlecloud)](https://www.cloudskillsboost.google/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfshaik99&label=PROFILE%20VIEWS&color=22D3EE&style=flat-square" alt="Profile views">
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an AI & Machine Learning undergraduate passionate about building intelligent applications that solve real-world problems.
-
-My work combines **Generative AI, Cloud Computing, Backend Engineering, and Software Development** to create scalable, user-centric solutions. From AI chatbots and accessibility tools to automation systems and cloud-native applications, I enjoy turning innovative ideas into practical products.
-
----
-
-## 🌱 Currently Building
-
-* 🤖 Advanced Generative AI Applications
-* ⚡ FastAPI & Scalable Backend Systems
-* ☁️ Google Cloud AI Solutions
-* 🧠 Data Structures & Algorithms
-* 🚀 Production-Ready AI Deployments
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at **CVR College of Engineering**
+- 📈 Current CGPA: **8.74**
+- 🤖 **Oracle Certified Generative AI Professional**
+- 💡 Interested in Generative AI, machine learning, intelligent automation, and backend development
+- ☁️ Exploring cloud technologies and scalable application development
+- 🏆 Actively participating in hackathons, technical projects, and coding challenges
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+</p>
 
 ### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
+</p>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge\&logo=pygame\&logoColor=white)
+### Cloud & Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
-### Cloud & Databases
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Tools
-
-Git • GitHub • VS Code • PyCharm • IntelliJ IDEA • Jupyter Notebook • Google Cloud Console
-
-### Core Concepts
-
-Data Structures & Algorithms • Object-Oriented Programming • REST APIs • Problem Solving • Software Engineering
-
----
-
-## 📂 Featured Projects
-
-### ♿ AI Accessibility Reader
-
-**Python • Streamlit • Gemini API**
-
-* Summarizes long-form content using Generative AI
-* Adds contextual emojis for improved comprehension
-* Provides text-to-speech accessibility support
-* Designed for enhanced content accessibility
-
-### 🤖 AI Chatbot
-
-**Python • Streamlit • Gemini API**
-
-* Context-aware conversational assistant
-* Maintains conversation history
-* Delivers real-time AI-powered responses
-* Optimized for low-latency interaction
-
-### 🎙️ Personal Virtual Assistant (Jarvis)
-
-**Python • Speech Recognition**
-
-* Voice-controlled desktop assistant
-* Automates system tasks and web searches
-* Executes commands using natural language
-
-### 📰 AI-Powered Misinformation Detection System
-
-**AI • NLP • Machine Learning**
-
-* Developed for a GenAI hackathon challenge
-* Detects misleading and unreliable information
-* Uses AI-driven content analysis techniques
-
-### 🎮 Additional Projects
-
-* Flappy Bird Game using Pygame
-* Alarm Clock Application
-* Text-to-Speech Converter
-* Python Automation Utilities
+### Core Interests
+`Generative AI` · `Machine Learning` · `AI Applications` · `REST APIs` · `Problem Solving` · `Cloud Computing` · `Software Development`
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Featured Projects
+
+### 🤖 AI Accessibility Reader
+An AI-powered accessibility concept designed to help users interact with and understand digital content more easily.
+
+**Focus:** AI integration · Accessibility · User experience
+
+### 💬 AI Chatbot
+An interactive chatbot project exploring conversational interfaces and AI-powered responses.
+
+**Focus:** Generative AI · Natural language interaction
+
+### 🧠 Jarvis — AI Assistant
+A personal AI-assistant concept focused on voice interaction, task assistance, and automation.
+
+**Focus:** Python · AI assistance · Automation
+
+### 📰 Misinformation Detection
+A project exploring methods to identify potentially misleading information using computational analysis.
+
+**Focus:** Machine learning · Text analysis · Classification
+
+### 🎮 Python Games & Utilities
+A collection of programming experiments and interactive applications built to strengthen software development and problem-solving skills.
+
+**Focus:** Python · Logic building · Interactive applications
+
+---
+
+## 💼 Experience
 
 ### J.P. Morgan Chase & Co. — Software Engineering Job Simulation
-
-* Integrated Kafka for event-driven communication
-* Developed REST API Controllers
-* Worked with H2 In-Memory Databases
-* Applied modular software engineering practices
+- Practiced software engineering workflows through a job simulation.
+- Explored code analysis, development tasks, and professional engineering practices.
+- Strengthened understanding of real-world software development processes.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-🥇 Oracle OCI 2025 Generative AI Professional
-
-☁️ Google Cloud Gen AI Academy
-
-💼 J.P. Morgan Chase Software Engineering Simulation
-
-🏗️ AWS Solutions Architecture Job Simulation
-
-🔐 Deloitte Australia Cybersecurity Job Simulation
-
-🚀 Participant — GenAI Exchange Hackathon
-
-📂 10+ Public GitHub Repositories
+- 🥇 Oracle Certified Generative AI Professional
+- ☁️ Google Cloud learning and certification achievements
+- 💻 J.P. Morgan Chase Software Engineering Job Simulation
+- 🌐 Deloitte and AWS learning experiences
+- 🏆 Hackathon participation and prototype development
+- 🚀 Development of AI-focused projects and practical applications
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfshaik99\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api?username=mfshaik99&show_icons=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A101F&border_color=30363D&include_all_commits=true" alt="Farhan's GitHub statistics">
+  <img height="165" src="https://github-readme-stats-one-eta-12.vercel.app/api/top-langs/?username=mfshaik99&layout=compact&title_color=22D3EE&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" alt="Most used programming languages">
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mfshaik99\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfshaik99\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Career Goal
-
-To become an AI Engineer and Software Developer who builds scalable, intelligent, and impactful solutions that bridge cutting-edge AI research with real-world applications.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" alt="GitHub contribution streak">
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Graph
 
-📧 Email: [mfshaik99@gmail.com](mailto:mfshaik99@gmail.com)
-
-💻 GitHub: https://github.com/mfshaik99
-
-🌐 Portfolio: https://farhanshaik.lovable.app
-
-📍 Hyderabad, India
-
-🤝 Open to AI/ML Internships, Software Engineering Internships, Open Source Contributions, and Hackathons
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg">
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-### ⭐ Motto
+## 🎯 My Career Goal
 
-> "Building intelligent solutions that create meaningful impact through innovation, learning, and technology."
+To build impactful, scalable, and intelligent software by combining Generative AI, machine learning, and software engineering — creating technology that solves real-world problems.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mfshaik99">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/mfshaik99/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/mfshaik99/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:mfshaik99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://farhanshaik.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Let's build something meaningful together. ✨</i>
+</p>
