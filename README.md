@@ -28,6 +28,26 @@
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mfshaik99/mfshaik99/output/github-snake.svg" width="100%">
 </picture>
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mfshaik99/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/mfshaik99/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/mfshaik99">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mfshaik99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://farhanshaik.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-22D3EE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
+
 # 👋 Hi, I'm Muhammad Farhan Shaik
 
 🎓 AI & Machine Learning Undergraduate at CVR College of Engineering (CGPA: 8.74)
