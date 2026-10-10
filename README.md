@@ -9,6 +9,16 @@
     width="100%">
 </picture>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-one-eta-12.vercel.app/api?username=mfshaik99&show_icons=true&hide_rank=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-eta-12.vercel.app/api/top-langs/?username=mfshaik99&layout=compact&title_color=22D3EE&text_color=C9D1D9&bg_color=0A101F&border_color=30363D" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mfshaik99&theme=dark&background=0A101F&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border=30363D" width="80%" alt="GitHub Contribution Streak" />
+</p>
 
 # 👋 Hi, I'm Muhammad Farhan Shaik
 
